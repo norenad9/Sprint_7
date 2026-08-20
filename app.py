@@ -1,9 +1,9 @@
 #importamos librerias necesarias
 import streamlit as st
 import pandas as pd
-import plotly 
+import plotly.graph_objects as go 
 #extraemos los datos del csv
-car_data = pd.read_csv(r"C:\Users\pargu\OneDrive\Documentos\Py Projects\Sprint_7\vehicles_us.csv")
+car_data = pd.read_csv("./vehicles_us.csv")
 #ver de que dato hare el analisis, en este caso el año del modelo y el precio
 #print(car_data.nunique())
 #prueba de que los datos se extrajeron correctamente
