@@ -1,1 +1,2 @@
-Este proyecto tendra como proposito crear una pagina web en la cual se puedan evidenciar el total de ventas de carros por año de modelo, en esta se incluiran distintos tipos de graficos y analisis que permitiran observar que año de modelo fue el mas vendido, asi como el que mas genero ingresos y ver en general el comportamiento de las ventas.
+Este proyecto tendra como proposito crear una pagina web en la cual se puedan evidenciar el total de ventas de carros por año de modelo, en esta se incluiran distintos tipos de graficos y analisis que permitiran observar que año de modelo fue el mas vendido.
+https://sprint-7-bdjm.onrender.com  
